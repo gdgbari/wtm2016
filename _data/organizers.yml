@@ -1,8 +1,10 @@
 - 
   group: "Main organizer"
   elements: 
-   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-bari.svg", width: "120px"}
+   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
+   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
 - 
   group: "Co-organizers"
   elements: 
-   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-bari.svg", width: "120px"}
+   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
+   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
