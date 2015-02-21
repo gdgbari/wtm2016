@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers 2015"
-email: "devfest@gdg.org.ua"
+email: "womentechmakersit@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/wtm"
 url: "http://gdgbari.github.io"
@@ -19,7 +19,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Bari"
 organizerAlternateName: "Google Developer Group Bari"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "gdgbari@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -38,33 +38,27 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programma"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/logistics/", text: "Logistica"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers <typeout> 2015"
-eventDate: "March, 2015"
+eventDate: "<br /><br />14 Marzo 2015"
 typeoutTextValues: '"", "Matera"'
 typeoutFallback: "Matera"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://www.eventbrite.it/e/biglietti-women-techmakers-matera-2015-15790274135", text: "Iscriviti!"}
 
 # About Block
 aboutTitle: "About Women Techmakers"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -85,11 +79,11 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Sala Conciliare"
+eventLocationName: "Sala Consiliare \"Pasolini\", presso Centro Commerciale il Circo"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Via Sallustio"
 eventAddressLocality: "Matera"
-eventAddressLocalityRegion: "Lvivska"
+eventAddressLocalityRegion: "Matera"
 eventPostalCode: "75100"
 eventAddressCountry: "Italy"
 eventStartTime: "2014-10-25T10:00"
@@ -105,7 +99,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Sala Conciliare"
+venueTitle: "Sala Consiliare \"Pasolini\""
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
