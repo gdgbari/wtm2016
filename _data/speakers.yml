@@ -12,57 +12,63 @@
     - {name: "twitter", link: "https://twitter.com/azzurraragone"}
 -
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  name: "Antonella"
+  surname: "Cosenza"
+  company: ""
+  title: "CEO @Personalshop"
+  bio: '<p>Consulente per la comunicazione, esperta in social media strategies e organizzazione eventi è titolare della Sua ditta individuale dal 2010. 
+Il suo lavoro da libera professionista viene piacevolmente interrotto da un'occasione di lavoro a Londra prima presso un'agenzia di produzione musicale per advertising e poi presso una casa di moda americana.
+Rientrata in Italia decide di avventurarsi nel mondo delle startup dando vita a PersonalShop, primo network internazionale di servizi per lo shopping e blog, con il supporto di un team di esperti in web marketing.</p>'
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/antonellapz"}
+   
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  name: "Raffaella"
+  surname: "Pontrandolfi"
+  company: ""
+  title: "Comitato Matera 2019"
+  bio: ""Make things not slides". Faccio piccole cose con grande passione. Nel webteam MT2019 e nel team di lavoro del comitato Matera 2019.
+Gestisco gli account ufficiali di Matera 2019 e svolgo il ruolo di coordinamento della comunicazione digitale. 
+Insieme alle donne del team di lavoro del comitato Matera 2019, ho ricevuto il premio di "collettivo donne lucane dell'anno" per aver saputo porre in sinergia la propria formazione culturale, le proprie competenze, i diversi ruoli e funzioni per un comune obiettivo: fare di Matera la Capitale europea della Cultura per il 2019."
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+ # ribbon: 
+#  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+   # - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/raffapontra"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  name: "Lucia"
+  surname: "Abbinante"
+  company: ""
+  title: "Associazione Kreattiva Bari. Progettista di innovazione sociale"
+  bio: "Lucia Abbinante, classe 1987, ha svolto studi – tra Bari e Valencia- sui new media e produzione partecipata dal basso di cultura. Dal 2010 collabora come progettista e docente di media education con l'Associazione Kreattiva di Bari, una realtà che si occupa di nuovi media per l'educazione e la partecipazione dei minori. Tra le best practice progettate vi è Radio Kreattiva. Ha facilitato percorsi di partecipazione dei minori con Crescere al Sud, realizzando un'inchiesta con gli smartphone come strumento di racconto ed esplorazione del reale, ed è co-referente per la città di Bari del progetto Sottosopra di Save the Children Italia. Si occupa, fra le altre cose, di progettazione di innovazione sociale per lo sviluppo e l'integrazione delle periferie."
   thumbnailUrl: RomanMazur.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#  ribbon:
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/+LuciaAbbinante/"}
+    - {name: "twitter", link: "http://twitter.com/LuciaAbbinante"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  name: "Mariella"
+  surname: "Stella"
+  company: ""
+  title: "Casa Netural Co-founder"
+  bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. 
+è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+ # ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+MariellaStella"}
+   # - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "http://twitter.com/mariella_stella"}
