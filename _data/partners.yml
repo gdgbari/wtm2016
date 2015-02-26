@@ -1,9 +1,9 @@
-#- 
-#  group: "General sponsor"
-#  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
- #   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
+    - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
 - 
   group: "Con il patrocinio di"
   elements: 
@@ -14,5 +14,5 @@
   group: "Sponsor"
   elements: 
     - {name: "Osteria dei Sassi", description: "Osteria dei Sassi", link: "http://www.osteriadeisassi.net/contatti.html", imageUrl: "google.svg"}
- #   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
-#    - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
+    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
+    - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}

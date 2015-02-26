@@ -41,7 +41,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programma"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistica"}
 bottomNavigationLinks:
 rightNavigationButtons:
 
