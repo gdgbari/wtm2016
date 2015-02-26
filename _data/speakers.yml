@@ -4,7 +4,7 @@
   surname: "Ragone"
   company: ""
   title: "Women Techmakers Regional Lead"
-  bio: "Ingegnere Gestionale, con un Dottorato in Ingegneria dell’Informazione e la passione per la ricerca, l’analisi e la visualizzazione dei dati, meglio se Open. Coordinatrice regionale del gruppo Women Techmakers (iniziativa patrocinata da Google), Coder Mentor nei CoderDojo organizzati a Matera e dintorni, Edgeryder e parte attiva del Web Team Matera 2019."
+  bio: "Ingegnere Gestionale, con un Dottorato in Ingegneria dell'Informazione e la passione per la ricerca, l’analisi e la visualizzazione dei dati, meglio se Open. Coordinatrice regionale del gruppo Women Techmakers (iniziativa patrocinata da Google), Coder Mentor nei CoderDojo organizzati a Matera e dintorni, Edgeryder e parte attiva del Web Team Matera 2019."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
@@ -16,24 +16,20 @@
   surname: "Cosenza"
   company: ""
   title: "CEO Personalshop"
-  bio: '<p>Consulente per la comunicazione, esperta in social media strategies e organizzazione eventi è titolare della Sua ditta individuale dal 2010. 
-Il suo lavoro da libera professionista viene piacevolmente interrotto da un'occasione di lavoro a Londra prima presso un'agenzia di produzione musicale per advertising e poi presso una casa di moda americana.
-Rientrata in Italia decide di avventurarsi nel mondo delle startup dando vita a PersonalShop, primo network internazionale di servizi per lo shopping e blog, con il supporto di un team di esperti in web marketing.</p>'
+  bio: "<p>Consulente per la comunicazione, esperta in social media strategies e organizzazione eventi è titolare della Sua ditta individuale dal 2010. Il suo lavoro da libera professionista viene piacevolmente interrotto da un occasione di lavoro a Londra prima presso un''agenzia di produzione musicale per advertising e poi presso una casa di moda americana. Rientrata in Italia decide di avventurarsi nel mondo delle startup dando vita a PersonalShop, primo network internazionale di servizi per lo shopping e blog, con il supporto di un team di esperti in web marketing.</p>"
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/antonellapz"}
-   
+
 - 
   id: 5
   name: "Raffaella"
   surname: "Pontrandolfi"
   company: ""
   title: "Comitato Matera 2019"
-  bio: ""Make things not slides". Faccio piccole cose con grande passione. Nel webteam MT2019 e nel team di lavoro del comitato Matera 2019.
-Gestisco gli account ufficiali di Matera 2019 e svolgo il ruolo di coordinamento della comunicazione digitale. 
-Insieme alle donne del team di lavoro del comitato Matera 2019, ho ricevuto il premio di "collettivo donne lucane dell'anno" per aver saputo porre in sinergia la propria formazione culturale, le proprie competenze, i diversi ruoli e funzioni per un comune obiettivo: fare di Matera la Capitale europea della Cultura per il 2019."
+  bio: "Make things not slides. Faccio piccole cose con grande passione. Nel webteam MT2019 e nel team di lavoro del comitato Matera 2019. Gestisco gli account ufficiali di Matera 2019 e svolgo il ruolo di coordinamento della comunicazione digitale. Insieme alle donne del team di lavoro del comitato Matera 2019, ho ricevuto il premio di collettivo donne lucane dell'anno per aver saputo porre in sinergia la propria formazione culturale, le proprie competenze, i diversi ruoli e funzioni per un comune obiettivo fare di Matera la Capitale europea della Cultura per il 2019."
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
  # ribbon: 
@@ -62,8 +58,7 @@ Insieme alle donne del team di lavoro del comitato Matera 2019, ho ricevuto il p
   surname: "Stella"
   company: ""
   title: "Casa Netural Co-founder"
-  bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. 
-è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
+  bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: true
  # ribbon:
