@@ -93,13 +93,13 @@ mapCenterCoordinates: "40.681134,16.577145"
 mapMobileCenterCoordinates: "40.681134,16.577145"
 
 # Venue Block
-venueBlockTitle: "La Sede"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Sala Consiliare \"Pasolini\""
-venueFeatures: ["150 posti", "Proiettore con maxi schermo", "Presso centro commerciale Il Circo"]
+#venueBlockTitle: "La Sede"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Sala Consiliare \"Pasolini\""
+#venueFeatures: ["150 posti", "Proiettore con maxi schermo", "Presso centro commerciale Il Circo"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
