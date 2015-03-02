@@ -21,9 +21,9 @@
   title: "Le donne e la tecnologia: perché così poche donne scelgono l'IT per il loro futuro"
   description: "Analizziamo ed esploriamo il gender gap dati alla mano. Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridurlo."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Beginner"
+  speakers: [3]
+  #language: en
+  #complexity: "Beginner"
 -
   id: 003
   title: "The world is your playground - go global with Google"
