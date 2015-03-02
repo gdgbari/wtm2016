@@ -18,8 +18,8 @@
   #complexity: "Intermediate"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  title: "Le donne e la tecnologia: perché così poche donne scelgono l'IT per il loro futuro"
+  description: "Analizziamo ed esploriamo il gender gap dati alla mano. Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridurlo."
   subtype: presentation
   speakers: [4, 5]
   language: en
