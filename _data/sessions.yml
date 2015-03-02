@@ -18,8 +18,8 @@
   #complexity: "Intermediate"
 -
   id: 002
-  title: "Le donne e la tecnologia: perché così poche donne scelgono l'IT per il loro futuro"
-  description: "Analizziamo ed esploriamo il gender gap dati alla mano. Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridurlo."
+  title: "Le donne e la tecnologia: poche donne scelgono l'IT per il loro futuro"
+  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne nel campo dell'IT? Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridure il gender gap."
   subtype: presentation
   speakers: [3]
   #language: en
@@ -37,7 +37,7 @@
   title: "Polymer: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [3]
+  speakers: [5]
   language: uk
   complexity: "Beginner"
 -
