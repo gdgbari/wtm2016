@@ -73,12 +73,12 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Scopri gli speakers"
-rockstarSpeakersButtonText: "Vedi tutti gli speakers"
+rockstarSpeakersTitle: "Scopri gli speaker"
+rockstarSpeakersButtonText: "Vedi tutti gli speaker"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Sala Consiliare \"Pasolini\", presso Centro Commerciale il Circo"
+eventLocationName: "Sala Consiliare \"Pasolini\", vicinanze Centro Commerciale il Circo"
 eventLocationLink: "#"
 eventStreetAddress: "Via Sallustio"
 eventAddressLocality: "Matera"
@@ -162,20 +162,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/u/0/communities/100202454944694552166", icon: "google-plus"}
+ - {link: "https://twitter.com/WTMItalia", icon: "twitter"}
+ - {link: "https://www.facebook.com/womentechmakersit", icon: "facebook"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "#", text: "GDG.org.ua"}
+   - {link: "https://www.womentechmakers.com/", text: "Women Techmakers"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:womentechmakersit@gmail.com", text: "womentechmakersit@gmail.com"}
  -
   title: "FAQ"
   links:
