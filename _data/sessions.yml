@@ -10,12 +10,12 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
+  title: "Accesso ai new media e partecipazione alla vita sociale e politica delle adolescenti"
+  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi media per aumentare il livello di partecipazione alla vita politica e sociale delle ragazze adolescenti. Presenteremo delle buone pratiche sperimentate nel Sud Italia."
+  subtype: presentation
+  speakers: [6]
+  #language: en
+  #complexity: "Intermediate"
 -
   id: 002
   title: "Building Cloud-powered wearable Apps"
