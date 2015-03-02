@@ -162,10 +162,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- #- {link: "https://plus.google.com/u/0/communities/100202454944694552166", icon: "google-plus"}
- #- {link: "https://twitter.com/WTMItalia", icon: "twitter"}
- #- {link: "https://www.facebook.com/womentechmakersit", icon: "facebook"}
-# - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/u/0/communities/100202454944694552166", icon: "google-plus"}
+ - {link: "https://twitter.com/WTMItalia", icon: "twitter"}
+ - {link: "https://www.facebook.com/womentechmakersit", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
