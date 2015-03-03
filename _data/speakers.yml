@@ -76,3 +76,16 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/millytucci"}
+
+-
+ id: 9
+  name: "Caterina"
+  surname: "Policaro"
+  company: ""
+  title: "WISTER e Digital Champion"
+  bio: "<p>Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione e insegnamento/apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi). Wister e Digital Champion Basilicata.</p>"
+  thumbnailUrl: caterina-policaro.png
+  rockstar: true
+  social: 
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/catepol"}
