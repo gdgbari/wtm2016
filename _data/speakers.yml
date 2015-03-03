@@ -52,3 +52,56 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+LuciaAbbinante/"}
     - {name: "twitter", link: "http://twitter.com/LuciaAbbinante"}
+
+    - 
+  id: 7
+  name: "Mariella"
+  surname: "Stella"
+  company: ""
+  title: "Casa Netural Co-founder"
+  bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
+  thumbnailUrl: mstella.jpg
+  rockstar: true
+ # ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+MariellaStella"}
+   # - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "http://twitter.com/mariella_stella"}
+-
+ id: 8
+  name: "Filomena"
+  surname: "Tucci"
+  company: ""
+  title: "Esperta di start up Istituto Piepoli e Iassp"
+  bio: "ciao"
+  thumbnailUrl: millytucci.jpg
+  rockstar: true
+  social: 
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/millytucci"}
+-
+ id: 9
+  name: "Caterina"
+  surname: "Policaro"
+  company: ""
+  title: "WISTER e Digital Champion"
+  bio: "<p>Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione e insegnamento/apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi). Wister e Digital Champion Basilicata.</p>"
+  thumbnailUrl: caterina-policaro.png
+  rockstar: true
+  social: 
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/catepol"}
+-
+ id: 10
+  name: "Marieva"
+  surname: "Favoino"
+  company: ""
+  title: "Giornalista e Social Media Manager"
+  bio: "<p>Marieva è giornalista, comunicatrice pubblica, social media manager. Lavora da 15 anni in ambito pubblico, occupandosi di strategie di comunicazione, gestione di processi partecipativi e azioni urbane di innovazione sociale. Si occupa di formazione peer to peer nel Gruppo Uffici Stampa Brianza - FNSI ed è contributor dei blog www.wister.it. Women for Intelligent and Smart TERritories - SGI e www.cittadiniditwitter.it</p>"
+  thumbnailUrl: mfavoi.png
+  rockstar: true
+  social: 
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/marievafavoino"}
+
