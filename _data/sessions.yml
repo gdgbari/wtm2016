@@ -18,64 +18,33 @@
   #complexity: "Intermediate"
 -
   id: 002
-  title: "Le donne e la tecnologia: perché poche donne scelgono l'IT per il loro futuro?"
-  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne nel campo dell'IT? Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridure il gender gap?"
+  title: "Le donne e la tecnologia: poche donne scelgono l'IT per il loro futuro"
+  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne nel campo dell'IT? Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridure il gender gap."
   subtype: presentation
   speakers: [3]
   #language: en
   #complexity: "Beginner"
 -
   id: 003
-  title: "Networking: l'unione fa la forza"
-  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  subtype: presentation
-  speakers: [4]
-  language: it
-  #complexity: "Expert"
--
-  id: 004
-  title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
-  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri "influencer". PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
+  title: "The world is your playground - go global with Google"
+  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
   subtype: presentation
   speakers: [4]
-  language: it
-  #complexity: "Beginner"
+  language: en
+  complexity: "Expert"
+-
+  id: 004
+  title: "Polymer: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [5]
+  language: uk
+  complexity: "Beginner"
 -
   id: 005
-  title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
-  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione senza partire dalla tradizione di un territorio, che non è possibile introdurre le nuove tecnologie senza tener conto del contesto sociale su cui si vanno ad innestare, che non basta mettere nelle mani dei cittadini strumenti tecnologici se poi non si è in grado di legarli a contesti reali e sociali concreti. La ricaduta sociale delle tecnologie, la possibilità di costruire una nuova inclusione sociale, a partire da quella di genere, anche grazie alle tecnologie, è un sfida che non si può perdere."
+  title: "Test: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
   speakers: [7]
-  language: it
-  #complexity: "Expert"
--
-   id: 006
-  title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
-  description: "Analisi delle forze emergenti e delle più recenti exit al femminile. Consigli e suggerimenti da un'esperta di ricerche di mercato, strategie di vendita e comunicazione."
-  subtype: keynote
-  speakers: [8]
-  language: it
-  #complexity: "Expert"
--
-   id: 007
-  title: "Comunicazione pubblica e cittadinanza attiva: il digitale come tecnologia abilitante del governo aperto"
-  description: "Racconterò di come, ai diversi livelli territoriali delle politiche pubbliche, gli strumenti digitali  possono attivare competenze e conoscenze dei cittadini, una migliore presa di decisioni e reale sussidiarietà."
-  subtype: keynote
-  speakers: [9]
-  language: it
-  #complexity: "Expert"
--
-   id: 008
-  title: "Social network e identità digitale: consapevolezza e competenze"
-  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza della propria identità digitale, delle differenze, se ci sono, di uso tra ragazzi e ragazze e competenze digitali da sviluppare. Come abitare la rete."
-  subtype: keynote
-  speakers: [10]
-  language: it
-  #complexity: "Expert"
--
-   id: 009
-  title: "@Matera2019: Together --> To Get There"
-  description: "La candidatura di Matera a Capitale europea della Cultura 2019 e la strategia di comunicazione social. L'anima è la Comunità!"
-  subtype: keynote
-  speakers: [4]
-  language: it
-  #complexity: "Expert"
+  language: en
+  complexity: "Expert"
