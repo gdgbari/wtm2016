@@ -63,3 +63,11 @@
   speakers: [9]
   language: it
   #complexity: "Expert"
+ 
+   id: 008
+  title: "Social network e identità digitale: consapevolezza e competenze"
+  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza della propria identità digitale, delle differenze, se ci sono, di uso tra ragazzi e ragazze e competenze digitali da sviluppare. Come abitare la rete."
+  subtype: keynote
+  speakers: [10]
+  language: it
+  #complexity: "Expert"
