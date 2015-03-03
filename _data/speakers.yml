@@ -85,14 +85,3 @@
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
 
-- 
-  id: 8
-  name: "Filomena"
-  surname: "Tucci"
-  company: ""
-  title: "Esperta di start up Istituto Piepoli e Iassp"
-  bio: "ciao"
-  thumbnailUrl: millytucci.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/millytucci"}
