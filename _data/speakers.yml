@@ -83,9 +83,8 @@
   surname: "Policaro"
   company: ""
   title: "WISTER e Digital Champion"
-  bio: "Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione, insegnamento, apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi). Wister e Digital Champion Basilicata."
+  bio: "Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione, insegnamento e apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi). Wister e Digital Champion Basilicata."
   thumbnailUrl: caterina-policaro.png
   rockstar: true
   social: 
-  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/catepol"}
