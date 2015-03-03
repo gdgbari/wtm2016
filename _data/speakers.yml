@@ -65,8 +65,8 @@
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
 
--
- id: 8
+- 
+  id: 8
   name: "Filomena"
   surname: "Tucci"
   company: ""
@@ -76,5 +76,3 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/millytucci"}
-
-    
