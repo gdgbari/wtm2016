@@ -73,7 +73,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/millytucci"}
 -
- id: 9
+ id: 1
   name: "Caterina"
   surname: "Policaro"
   company: ""
@@ -84,7 +84,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/catepol"}
 -
- id: 10
+ id: 2
   name: "Marieva"
   surname: "Favoino"
   company: ""
