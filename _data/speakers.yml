@@ -83,3 +83,14 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/catepol"}
+-
+  id: 2
+  name: "Marieva"
+  surname: "Favoino"
+  company: ""
+  title: "Giornalista e Social Media Manager"
+  bio: "ciao3 nick"
+  thumbnailUrl: mfavoi.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/marievafavoino"}
