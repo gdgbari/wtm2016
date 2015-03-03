@@ -88,3 +88,16 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/catepol"}
+
+-
+ id: 10
+  name: "Marieva"
+  surname: "Favoino"
+  company: ""
+  title: "Giornalista e Social Media Manager"
+  bio: "<p>Marieva è giornalista, comunicatrice pubblica, social media manager. Lavora da 15 anni in ambito pubblico, occupandosi di strategie di comunicazione, gestione di processi partecipativi e azioni urbane di innovazione sociale. Si occupa di formazione peer to peer nel Gruppo Uffici Stampa Brianza - FNSI ed è contributor dei blog www.wister.it. Women for Intelligent and Smart TERritories - SGI e www.cittadiniditwitter.it</p>"
+  thumbnailUrl: mfavoi.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/marievafavoino"}
+
