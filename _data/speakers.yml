@@ -61,6 +61,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
+    
 - 
   id: 8
   name: "Filomena"
@@ -72,15 +73,3 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/millytucci"}
-
--
- id: 2
-  name: "Marieva"
-  surname: "Favoino"
-  company: ""
-  title: "Giornalista e Social Media Manager"
-  bio: "ciao3"
-  thumbnailUrl: mfavoi.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/marievafavoino"}
