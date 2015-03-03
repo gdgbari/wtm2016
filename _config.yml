@@ -57,7 +57,7 @@ heroButtons:
 aboutTitle: "About Women Techmakers"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "L'unico evento Women Techmakers (WTM) in Italia, insieme a Napoli. Venite a Matera a scoprire cos'è WTM! Celebreremo le donne nella tecnologia e i loro successi" }
- - {title: "Workshops", image: "workshop.jpg", text: "Il Google Developer Group (GDG) di Bari presenta: la tecnologia Google in azione! Venite a scoprire cos'è un GDG e cosa si fa in un GDG, un giorno potreste farne parte anche voi!" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Il Google Developer Group (GDG) di Bari presenta: la tecnologia Google in azione! Venite a scoprire cos'è un GDG e cosa si fa in un GDG, un giorno potreste farne parte anche voi!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
