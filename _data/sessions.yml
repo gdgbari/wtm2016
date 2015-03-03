@@ -41,12 +41,12 @@
   #complexity: "Beginner"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
+  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione senza partire dalla tradizione di un territorio, che non è possibile introdurre le nuove tecnologie senza tener conto del contesto sociale su cui si vanno ad innestare, che non basta mettere nelle mani dei cittadini strumenti tecnologici se poi non si è in grado di legarli a contesti reali e sociali concreti. La ricaduta sociale delle tecnologie, la possibilità di costruire una nuova inclusione sociale, a partire da quella di genere, anche grazie alle tecnologie, è un sfida che non si può perdere."
   subtype: keynote
   speakers: [7]
-  language: en
-  complexity: "Expert"
+  language: it
+  #complexity: "Expert"
   
    id: 006
   title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
