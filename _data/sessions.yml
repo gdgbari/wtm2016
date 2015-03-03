@@ -48,4 +48,11 @@
   speakers: [7]
   language: it
   complexity: "Expert"
-
+-
+  id: 006
+  title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
+  description: "Analisi delle forze emergenti e delle più recenti exit al femminile. Consigli e suggerimenti da un'esperta di ricerche di mercato, strategie di vendita e comunicazione."
+  subtype: keynote
+  speakers: [8]
+  language: it
+  complexity: "Expert"
