@@ -177,9 +177,9 @@ footerBlocks:
   links:
    - {link: "mailto:womentechmakersit@gmail.com", text: "womentechmakersit@gmail.com"}
  -
-  title: "FAQ"
+  title: "Related resources"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://www.womentechmakers.com/", text: "Women Techmakers"}
 
 # Blog
 blogTitle: "Latest news"
