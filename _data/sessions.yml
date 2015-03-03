@@ -11,7 +11,7 @@
 -
   id: 001
   title: "Accesso ai new media e partecipazione alla vita sociale e politica delle adolescenti"
-  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi ..."
+  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi "
   subtype: presentation
   speakers: [6]
   language: en
@@ -19,7 +19,7 @@
 -
   id: 002
   title: "Le donne e la tecnologia: perché poche donne scelgono l'IT per il loro futuro?"
-  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne ..."
+  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne "
   subtype: presentation
   speakers: [3]
   language: en
@@ -27,7 +27,7 @@
 -
   id: 003
   title: "Networking: l'unione fa la forza"
-  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile ..."  
+  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile "  
   subtype: presentation
   speakers: [4]
   language: it
@@ -35,7 +35,7 @@
 -
   id: 004
   title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
-  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati ..."
+  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati "
   subtype: presentation
   speakers: [4]
   language: it
@@ -43,7 +43,7 @@
 -
   id: 005
   title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
-  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione..."
+  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione"
   subtype: keynote
   speakers: [7]
   language: it
@@ -51,7 +51,7 @@
 -
   id: 006
   title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
-  description: "Analisi delle forze emergenti e delle più recenti exit al femminile..."
+  description: "Analisi delle forze emergenti e delle più recenti exit al femminile"
   subtype: keynote
   speakers: [8]
   language: it
@@ -59,7 +59,7 @@
 -
   id: 007
   title: "Comunicazione pubblica e cittadinanza attiva: il digitale come tecnologia abilitante del governo aperto"
-  description: "Racconterò di come, ai diversi livelli territoriali delle politiche pubbliche, gli strumenti..."
+  description: "Racconterò di come, ai diversi livelli territoriali delle politiche pubbliche, gli strumenti"
   subtype: keynote
   speakers: [9]
   language: it
@@ -67,7 +67,7 @@
 -
   id: 008
   title: "Social network e identità digitale: consapevolezza e competenze"
-  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza..."
+  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza"
   subtype: keynote
   speakers: [10]
   language: it
