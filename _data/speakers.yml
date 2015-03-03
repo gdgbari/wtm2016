@@ -67,7 +67,7 @@
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
    # - {name: "site", link: "http://olostan.name/"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
-
+-
  id: 8
   name: "Filomena"
   surname: "Tucci"
@@ -79,7 +79,7 @@
   social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/millytucci"}
-
+-
  id: 9
   name: "Caterina"
   surname: "Policaro"
@@ -91,7 +91,7 @@
   social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/catepol"}
-
+-
  id: 10
   name: "Marieva"
   surname: "Favoino"
