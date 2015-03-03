@@ -56,3 +56,19 @@
   speakers: [8]
   language: it
   complexity: "Expert"
+-
+  id: 007
+  title: "Comunicazione pubblica e cittadinanza attiva: il digitale come tecnologia abilitante del governo aperto"
+  description: "Racconterò di come, ai diversi livelli territoriali delle politiche pubbliche, gli strumenti digitali  possono attivare competenze e conoscenze dei cittadini, una migliore presa di decisioni e reale sussidiarietà."
+  subtype: keynote
+  speakers: [9]
+  language: it
+  complexity: "Expert"
+-
+  id: 008
+  title: "Social network e identità digitale: consapevolezza e competenze"
+  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza della propria identità digitale, delle differenze, se ci sono, di uso tra ragazzi e ragazze e competenze digitali da sviluppare. Come abitare la rete."
+  subtype: keynote
+  speakers: [10]
+  language: it
+  complexity: "Expert"
