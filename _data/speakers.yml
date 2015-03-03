@@ -84,7 +84,7 @@
   company: ""
   title: "WISTER e Digital Champion"
   bio: "ciao2"
-  thumbnailUrl: caterina-policaro.jpg
+  thumbnailUrl: caterinapolicaro.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/catepol"}
@@ -97,7 +97,7 @@
   title: "Giornalista e Social Media Manager"
   bio: "ciao3"
   thumbnailUrl: mfavoi.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/marievafavoino"}
 
