@@ -60,8 +60,21 @@
   title: "Casa Netural Co-founder"
   bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
   thumbnailUrl: mstella.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
-   # - {name: "site", link: "http://olostan.name/"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
+
+-
+ id: 8
+  name: "Filomena"
+  surname: "Tucci"
+  company: ""
+  title: "Esperta di start up Istituto Piepoli e Iassp"
+  bio: "ciao"
+  thumbnailUrl: millytucci.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/millytucci"}
+
+    
