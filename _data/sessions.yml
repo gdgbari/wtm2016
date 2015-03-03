@@ -27,14 +27,15 @@
 -
   id: 003
   title: "Networking: l'unione fa la forza"
-  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  subtype: presentation
+  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  
+  subtype: presentation
   speakers: [4]
   language: it
   #complexity: "Expert"
 -
   id: 004
   title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
-  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri "influencer". PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
+  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri influencer. PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
   subtype: presentation
   speakers: [4]
   language: it
