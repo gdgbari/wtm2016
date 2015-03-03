@@ -11,39 +11,39 @@
 -
   id: 001
   title: "Accesso ai new media e partecipazione alla vita sociale e politica delle adolescenti"
-  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi ..."
+  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi media per aumentare il livello di partecipazione alla vita politica e sociale delle ragazze adolescenti. Presenteremo delle buone pratiche sperimentate nel Sud Italia."
   subtype: presentation
   speakers: [6]
-  language: en
-  complexity: "Intermediate"
+  #language: en
+  #complexity: "Intermediate"
 -
   id: 002
-  title: "Le donne e la tecnologia: perché poche donne scelgono l'IT per il loro futuro?"
-  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne ..."
+  title: "Le donne e la tecnologia: perché poche donne scelgono l'IT per il loro futuro"
+  description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne nel campo dell'IT? Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridure il gender gap?"
   subtype: presentation
   speakers: [3]
-  language: en
-  complexity: "Beginner"
+  #language: en
+  #complexity: "Beginner"
 -
   id: 003
   title: "Networking: l'unione fa la forza"
-  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile ..."  
+  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  
   subtype: presentation
   speakers: [4]
   language: it
-  complexity: "Expert"
+  #complexity: "Expert"
 -
   id: 004
   title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
-  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati ..."
+  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri influencer. PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
   subtype: presentation
   speakers: [4]
   language: it
-  complexity: "Beginner"
+  #complexity: "Beginner"
 -
   id: 005
   title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
-  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione..."
+  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione senza partire dalla tradizione di un territorio, che non è possibile introdurre le nuove tecnologie senza tener conto del contesto sociale su cui si vanno ad innestare, che non basta mettere nelle mani dei cittadini strumenti tecnologici se poi non si è in grado di legarli a contesti reali e sociali concreti. La ricaduta sociale delle tecnologie, la possibilità di costruire una nuova inclusione sociale, a partire da quella di genere, anche grazie alle tecnologie, è un sfida che non si può perdere."
   subtype: keynote
   speakers: [7]
   language: it
