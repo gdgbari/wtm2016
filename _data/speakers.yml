@@ -60,7 +60,7 @@
   title: "Casa Netural Co-founder"
   bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
   thumbnailUrl: mstella.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
@@ -73,7 +73,7 @@
   title: "Esperta di start up Istituto Piepoli e Iassp"
   bio: "ciao"
   thumbnailUrl: millytucci.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/millytucci"}
 
@@ -84,7 +84,7 @@
   company: ""
   title: "WISTER e Digital Champion"
   bio: "Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione, insegnamento e apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi). Wister e Digital Champion Basilicata."
-  thumbnailUrl: caterina-policaro.png
-  rockstar: true
+  thumbnailUrl: caterina-policaro.jpg
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/catepol"}
