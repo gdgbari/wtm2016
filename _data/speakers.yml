@@ -1,3 +1,26 @@
+-
+ id: 1
+  name: "Caterina"
+  surname: "Policaro"
+  company: ""
+  title: "WISTER e Digital Champion"
+  bio: "ciao2"
+  thumbnailUrl: caterinapolicaro.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/catepol"}
+-
+ id: 2
+  name: "Marieva"
+  surname: "Favoino"
+  company: ""
+  title: "Giornalista e Social Media Manager"
+  bio: "ciao3"
+  thumbnailUrl: mfavoi.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/marievafavoino"}
+
 - 
   id: 3
   name: "Azzurra"
@@ -61,7 +84,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+MariellaStella"}
     - {name: "twitter", link: "http://twitter.com/mariella_stella"}
-    
+
 - 
   id: 8
   name: "Filomena"
