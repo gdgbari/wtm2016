@@ -26,20 +26,19 @@
   #complexity: "Beginner"
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+  title: "Networking: l'unione fa la forza"
+  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Expert"
+  language: it
+  #complexity: "Expert"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [5]
-  language: uk
-  complexity: "Beginner"
+  title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
+  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri "influencer". PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
+  subtype: presentation
+  speakers: [4]
+  language: it
+  #complexity: "Beginner"
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
