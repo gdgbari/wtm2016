@@ -14,16 +14,16 @@
   description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi media per aumentare il livello di partecipazione alla vita politica e sociale delle ragazze adolescenti. Presenteremo delle buone pratiche sperimentate nel Sud Italia."
   subtype: presentation
   speakers: [6]
-  #language: en
-  #complexity: "Intermediate"
+  language: en
+  complexity: "Intermediate"
 -
   id: 002
   title: "Le donne e la tecnologia: perché poche donne scelgono l'IT per il loro futuro?"
   description: "Analizziamo ed esploriamo il gender gap dati alla mano, perchè sono sempre così poche le donne nel campo dell'IT? Quali sono le cause e quali le possibili iniziative che scuola, università e mondo del lavoro possono adottare per ridure il gender gap?"
   subtype: presentation
   speakers: [3]
-  #language: en
-  #complexity: "Beginner"
+  language: en
+  complexity: "Beginner"
 -
   id: 003
   title: "Networking: l'unione fa la forza"
@@ -31,7 +31,7 @@
   subtype: presentation
   speakers: [4]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
 -
   id: 004
   title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
@@ -39,7 +39,7 @@
   subtype: presentation
   speakers: [4]
   language: it
-  #complexity: "Beginner"
+  complexity: "Beginner"
 -
   id: 005
   title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
@@ -47,7 +47,7 @@
   subtype: keynote
   speakers: [7]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
 -
   id: 006
   title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
@@ -55,7 +55,7 @@
   subtype: keynote
   speakers: [8]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
 -
   id: 007
   title: "Comunicazione pubblica e cittadinanza attiva: il digitale come tecnologia abilitante del governo aperto"
@@ -63,7 +63,7 @@
   subtype: keynote
   speakers: [9]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
 -
   id: 008
   title: "Social network e identità digitale: consapevolezza e competenze"
@@ -71,7 +71,7 @@
   subtype: keynote
   speakers: [10]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
 -
  id: 009
   title: "@Matera2019: Together > To Get There"
@@ -79,4 +79,4 @@
   subtype: keynote
   speakers: [4]
   language: it
-  #complexity: "Expert"
+  complexity: "Expert"
