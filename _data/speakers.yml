@@ -80,7 +80,7 @@
   title: "WISTER e Digital Champion Potenza"
   bio: "Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione e insegnamento/apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi)."
   thumbnailUrl: caterinapolicaro.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/catepol"}
 -
