@@ -5,6 +5,7 @@
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Community", color: "#e91e63"}
+    - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -27,8 +28,13 @@
     	sessionIds: [006, 007]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
+    	startTime: "11:50",
+    	endTime: "12:35",
+    	sessionIds: [003, 004, 001, 005]
+    }
+    - {
+    	startTime: "12:35",
+    	endTime: "13:00",
     	sessionIds: [307]
     }
 - 
