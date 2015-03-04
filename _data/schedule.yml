@@ -22,16 +22,16 @@
     	sessionIds: [307]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2015-03-14"
+  dateReadable: "14 Marzo"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	endTime: "10:15",
+    	sessionIds: [503]
     }
     - {
     	startTime: "11:00",
