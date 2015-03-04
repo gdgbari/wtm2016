@@ -6,11 +6,6 @@
     - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Community", color: "#e91e63"}
   timeslots:
-   - {
-    	startTime: "10:00",
-    	endTime: "10:15",
-    	sessionIds: [307]
-    }
     - {
     	startTime: "10:15",
     	endTime: "10:40",
