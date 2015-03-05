@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "Women Techmakers 2015"
 email: "womentechmakersit@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "Women Techmakers: Create, Connect, Celebrate includerà discussioni con donne leader nei settori IT, opportunità di fare networking, sessioni dimostrative."
 baseurl: "/wtm"
 url: "http://gdgbari.github.io"
 permalink: "/blog/:title"
