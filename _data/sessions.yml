@@ -2,7 +2,8 @@
   id: 307
   title: "Saluti istituzionali"
   description: "Dott.ssa Anna Maria Fanelli - Consigliera di Parità Regione Basilicata"
-  service: true
+  subtype: presentation
+  speakers: [1]
 -
   id: 503
   title: "GDG Showcase: la tecnologia di Google in azione. A cura del Google Developer Group di Bari"
