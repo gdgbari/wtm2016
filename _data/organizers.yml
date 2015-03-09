@@ -1,11 +1,11 @@
 - 
   group: "Main organizer"
   elements: 
-   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
+   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io/wtm/", imageUrl: "wtm-mt.svg"}
    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
   
 - 
  # group: "Co-organizers"
 #  elements: 
  #  - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
-  # - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io", imageUrl: "wtm-mt.svg"}
+  # - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io/wtm/", imageUrl: "wtm-mt.svg"}

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Women Techmakers 2015</title>
-    <description>L'evento Women Tachmakers arriva a Matera!</description>
+    <description>L'evento Women Techmakers arriva a Matera!</description>
     <link>http://gdgbari.github.io/wtm/</link>
     <atom:link href="http://gdgbari.github.io/wtm/feed.xml" rel="self" type="application/rss+xml" />
     
