@@ -28,7 +28,7 @@ metaKeywords: "event, gdg, women, techmakers, google, programming, android, chro
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/organizers/wtm-mt.svg"
 socialImageSrcTwitter: "/img/organizers/wtm-mt.svg"
-socialImageSrcFacebook: "../img/seo/sharing-facebook.png"
+socialImageSrcFacebook: "/../img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
