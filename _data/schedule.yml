@@ -1,6 +1,6 @@
 - 
-  date: "2015-03-14"
-  dateReadable: "14 Marzo"
+  date: "2015-03-31"
+  dateReadable: "31 Marzo"
   tracks: 
     - {title: "", color: "#90be4e"}
     - {title: "", color: "#03a9f4"}
@@ -8,32 +8,37 @@
     - {title: "", color: "#e91e63"}
   timeslots:
     - {
+    	startTime: "09:30",
+    	endTime: "10:00",
+    	sessionIds: [010]
+    }
+    - {
     	startTime: "10:00",
-    	endTime: "10:15",
-    	sessionIds: [307]
+    	endTime: "10:30",
+    	sessionIds: [001]
     }
     - {
-    	startTime: "10:15",
-    	endTime: "10:40",
-    	sessionIds: [002]
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [002]
     }
     - {
-        startTime: "10:40",
-        endTime: "11:30",
-        sessionIds: [008, 009]
+    	startTime: "11:00",
+    	endTime: "11:30",
+    	sessionIds: [003]
     }
     - {
     	startTime: "11:30",
-    	endTime: "11:50",
-    	sessionIds: [006, 007]
+    	endTime: "12:00",
+    	sessionIds: [004]
     }
     - {
-    	startTime: "11:50",
-    	endTime: "12:35",
-    	sessionIds: [003, 004, 001, 005]
+    	startTime: "12:00",
+    	endTime: "12:30",
+    	sessionIds: [005]
     }
     - {
-    	startTime: "12:35",
-    	endTime: "13:00",
-    	sessionIds: [503]
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [006]
     }

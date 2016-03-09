@@ -1,9 +1,9 @@
--
-  id: 307
-  title: "Saluti istituzionali: <br> Avv.Brunella Massenzio - Presidente Consiglio Comunale Matera <br>  Dott.ssa Anna Maria Fanelli - Consigliera di Parità Regione Basilicata"
-  description: "Dott.ssa Anna Maria Fanelli - Consigliera di Parità Regione Basilicata"
-  subtype: presentation
-  speakers: [1]
+#-
+#  id: 307
+#  title: "Saluti istituzionali: <br> Avv.Brunella Massenzio - Presidente Consiglio Comunale Matera <br>  Dott.ssa Anna Maria Fanelli - Consigliera di Parità Regione Basilicata"
+#  description: "Dott.ssa Anna Maria Fanelli - Consigliera di Parità Regione Basilicata"
+#  subtype: presentation
+#  speakers: [1]
 -
   id: 503
   title: "GDG Showcase: la tecnologia di Google in azione. A cura del Google Developer Group di Bari"
@@ -11,73 +11,55 @@
   service: true
 -
   id: 001
-  title: "Accesso ai new media e partecipazione alla vita sociale e politica delle adolescenti"
-  description: "Analizzeremo le possibilità offerte dall'accesso e utilizzo consapevole dei nuovi media per aumentare il livello di partecipazione alla vita politica e sociale delle ragazze adolescenti. Presenteremo delle buone pratiche sperimentate nel Sud Italia."
+  title: "Il mondo delle community Google: Google Developers Group e Women Techmakers"
+  description: "Contenuto da inserire"
   subtype: presentation
-  speakers: [6]
+  speakers: [1]
   #language: en
   #complexity: "Intermediate"
 -
   id: 002
-  title: "La diversità è una componente chiave dell'innovazione"
-  description: "Solo un terzo delle donne resta in ambito tecnico dopo la laurea. Aziende che hanno tra i co-founder almeno una donna hanno il 20% in meno di probabilità di essere finanziate, ma hanno una probabilità superiore del 5% di portare reale profitto. Troppo spesso le donne nell’IT, ma anche in altri campi, sono vittime di pregiudizi di genere. Eppure, una ricerca effettuata dal MIT e dalla Carnegie Melon University ha mostrato che avere delle donne in un team aumenta l’intelligenza collettiva del gruppo. Siamo ancora troppo lontani dal colmare il gender gap e quali le misure per ridurlo?"
+  title: "Interactions-Designer vs User"
+  description: "Dietro l’utilizzo di un’app, un website o un qualsiasi prodotto digitale si nasconde un enorme lavoro di squadra, determinante per il successo o meno del progetto. Un team di sviluppo richiede figure professionali interconnesse, sempre aggiornate e pronte a comunicare fra loro. I designer sono protagonisti di questo processo, essendo loro a determinare l’aspetto, le funzioni e di conseguenza l’usabilità del prodotto. È questa la chiave dell'interazione fra le macchine e l’ambiente che le circonda. Pensate a quante cose è capace di fare l’essere umano mentre guida un automobile: ascoltare la radio, cantare, chiacchierare o banalmente stare sovrappensiero senza avere un minimo di distrazione alla guida. Anni di studi hanno portato oggi i professionisti a poter realizzare una connessione uomo-macchina naturale ed automatica. L’User Experience Designer, figura sempre più ricercata nella realtà lavorativa odierna, nasce dall’esigenza per il nuovo mondo digitale di essere fruito in modo rapido, veloce, intuitivo e naturale. Per far sì che ciò avvenga esistono tecniche e strumenti alla portata di tutti. Dalla fase di architettura attraverso i flow-chart ai wireframe arrivando alla prototipazione per la realizzazione concreta del prodotto finito."
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   #language: en
   #complexity: "Beginner"
 -
   id: 003
-  title: "Networking: l'unione fa la forza"
-  description: "In qualsiasi parte del mondo ci troviamo oggi è indispensabile avere una connessione internet e possibilmente la conoscenza di una o più lingue. Il caso di PersonalShop, network internazionale che unisce professionisti per fornire servizi relativi allo shopping e aziende per azioni business to business, è un esempio di come la rete crea opportunità di guadagno e crescita professionale."  
+  title: "Social media management e web marketing"
+  description: "Contenuto da inserire"  
   subtype: presentation
-  speakers: [4]
-  language: it
+  speakers: [5]
   #complexity: "Expert"
 -
   id: 004
-  title: "Professione fashion blogger. Quando la propria immagine diventa un canale pubblicitario."
-  description: "Il fenomeno del fashion blogging è sempre più diffuso ma solo alcuni sono diventati dei veri e propri influencer. PersonalShop crea una piattaforma potenzialmente interessante come shopping blog, dove scoprire i luoghi dello shopping e le novità del momento. Il caso Chiara Ferragni è invece l'esempio calzante di come la propria immagine possa veicolare messaggi pubblicitari."
+  title: "Crowdfunding: come raccogliere fondi sul Web"
+  description: "Il crowdfunding come possibilità di scoperta e condivisione. Vi porterò in questo mondo con il sorriso e non lasciandovi mai la mano. I principali temi trattati durante il talk saranno: cos'è il crowdfunding e quali sono i punti principali da seguire e quali sono gli elementi per una campagna di successo. Mettiamoci la faccia e mostriamo a tutti il nostro progetto, nessuno lo potrà rubare. E' nostro così come il nostro cervello! E poi, quanti tipi di crowdfunding ci sono? Quali sono le piattaforme più...simpatiche? Qualche progetto vincente e alla fine un inedito in anteprima...la campagna di TouPlay solo per voi."  
   subtype: presentation
-  speakers: [4]
-  language: it
-  #complexity: "Beginner"
+  speakers: [4,6]
+  #complexity: "Expert"
 -
   id: 005
-  title: "Inclusione e Innovazione sociale tra tecnologia e tradizione"
-  description: "L'esperienza di Casa Netural dimostra come non sia possibile fare innovazione senza partire dalla tradizione di un territorio, che non è possibile introdurre le nuove tecnologie senza tener conto del contesto sociale su cui si vanno ad innestare, che non basta mettere nelle mani dei cittadini strumenti tecnologici se poi non si è in grado di legarli a contesti reali e sociali concreti. La ricaduta sociale delle tecnologie, la possibilità di costruire una nuova inclusione sociale, a partire da quella di genere, anche grazie alle tecnologie, è un sfida che non si può perdere."
-  subtype: keynote
-  speakers: [7]
-  language: it
-  complexity: "Expert"
+  title: "Dall’idea al business: la storia di Marshmallow Games"
+  description: "La storia di Cristina Angelillo parte proprio dal Politecnico di Bari. Durante il suo intervento ci racconterà come è arrivata dai banchi di Ingegneria ad essere l’amministratore di una società (www.marshmallow-games.com). Ci spiegherà com’è nata la sua idea di business, quali sono state le fasi salienti del suo percorso e quali sono oggi le gioie e i dolori di essere un’imprenditrice al Sud, per di più mamma."  
+  subtype: presentation
+  speakers: [3]
+  #complexity: "Expert"
 -
   id: 006
-  title: "Le competenze femminili fanno azienda? L'occasione per la ripresa"
-  description: "Analisi delle forze emergenti e delle più recenti exit al femminile. Consigli e suggerimenti da un'esperta di ricerche di mercato, strategie di vendita e comunicazione."
-  subtype: keynote
-  speakers: [8]
-  language: it
-  complexity: "Expert"
+  title: "Gli strumenti di Google per promuovere la propria idea su Web e Mobile"
+  description: "Contenuto da inserire"  
+  subtype: presentation
+  speakers: [1]
+  #complexity: "Expert"
+
 -
-  id: 007
-  title: "Comunicazione pubblica e cittadinanza attiva: il digitale come tecnologia abilitante del governo aperto"
-  description: "Racconterò di come, ai diversi livelli territoriali delle politiche pubbliche, gli strumenti digitali  possono attivare competenze e conoscenze dei cittadini, una migliore presa di decisioni e reale sussidiarietà."
-  subtype: keynote
-  speakers: [2]
-  language: it
-  complexity: "Expert"
--
-  id: 008
-  title: "Social network e identità digitale: consapevolezza e competenze"
-  description: "Adolescenti e uso dei social network con particolare attenzione alla consapevolezza della propria identità digitale, delle differenze, se ci sono, di uso tra ragazzi e ragazze e competenze digitali da sviluppare. Come abitare la rete."
-  subtype: keynote
-  speakers: [9]
-  language: it
-  complexity: "Expert"
--
-  id: 009
-  title: "@Matera2019: Together -> To Get There"
-  description: "La candidatura di Matera a Capitale europea della Cultura 2019 e la strategia di comunicazione social. L'anima è la Comunita'!"
-  subtype: keynote
-  speakers: [5]
-  language: it
-  complexity: "Expert"
+  id: 010
+  title: "Registrazione dei partecipanti"
+  description: "Contenuto da inserire"
+  service: true
+#  speakers: [1]
+  #language: en
+  #complexity: "Intermediate"
+

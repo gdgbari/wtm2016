@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Azzurra"
   surname: "Ragone"
   company: ""
@@ -11,95 +11,58 @@
     - {name: "google-plus", link: "https://plus.google.com/+AzzurraRagone"}
     - {name: "twitter", link: "https://twitter.com/azzurraragone"}
 -
-  id: 4
-  name: "Antonella"
-  surname: "Cosenza"
+  id: 2
+  name: "Omar"
+  surname: "Amato"
   company: ""
-  title: "CEO Personalshop"
-  bio: "Consulente per la comunicazione, esperta in social media strategies e organizzazione eventi è titolare della Sua ditta individuale dal 2010. Il suo lavoro da libera professionista viene piacevolmente interrotto da un occasione di lavoro a Londra prima presso un''agenzia di produzione musicale per advertising e poi presso una casa di moda americana. Rientrata in Italia decide di avventurarsi nel mondo delle startup dando vita a PersonalShop, primo network internazionale di servizi per lo shopping e blog, con il supporto di un team di esperti in web marketing."
-  thumbnailUrl: antocosenza.jpg
+  title: "Co-founder & Lead UI/UX Designer @ Paradigma"
+  bio: "Catanese, classe 88, diplomato in Media Design allo IED di Roma con una tesi sull’interface design. Ha lavorato su diversi progetti a caratura nazionale ed internazionale, stringendo il suo focus su UI/UX Design. Co-founder e Lead UI/UX Designer per la società di sviluppo prodotti tecnologici Paradigma, nel 2014 è stato fra i mentor del Working Capital Accelerator di Catania, progetto di Telecom Italia che supporta le startup in Italia. Attualmente è docente di Grafica Multimediale presso l'Harim Accademia Euromediterranea."
+  thumbnailUrl: omaramato.png
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/antonellapz"}
+    - {name: "google-plus", link: "https://plus.google.com/+OmarAmato"}
+    - {name: "twitter", link: "https://twitter.com/omaramato"}
+- 
+  id: 3
+  name: "Cristina"
+  surname: "Angelillo"
+  company: ""
+  title: "‎CEO & Co-founder @ Marshmallow Games"
+  bio: "Ingegnere delle telecomunicazioni, ha lavorato 5 anni nel settore del broadcasting come progettista hardware, ma quando ha scoperto che sarebbe diventata mamma ha deciso di seguire le sue due più grandi passioni, i bambini e l’insegnamento. Ha fondato così Marshmallow Games per realizzare app mobile educative per bambini. Ora nella sua società è la responsabile del business development, delle partnership e dell’area di fundraising."
+  thumbnailUrl: criangelillo.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/crimarshmallow"}
+- 
+  id: 4
+  name: "Marcella"
+  surname: "Loporchio"
+  company: ""
+  title: ""
+  bio: "Classe 1968, Napoletana di origine ma trapiantata e adottata dai Baresi. Consulente del Lavoro con la passione per il Crowdfunding e la realizzazione di nuove idee. Crede nella rete e nella condivisione con una competenza riconosciuta in pubblic speaking e comunicazione. Tifosa del Napoli e amante degli sport, ma solo da vedere in Tv. Risponde a tutti coloro che le scrivono e cercano aiuto, chiarendo però che è una professionista e non Babbo Natale."
+  thumbnailUrl: mloporchio.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/loporchiomarcy"}
 - 
   id: 5
-  name: "Raffaella"
-  surname: "Pontrandolfi"
+  name: "Serena"
+  surname: "Tudisco"
   company: ""
-  title: "Comitato Matera 2019"
-  bio: "Make things not slides. Faccio piccole cose con grande passione. Nel webteam MT2019 e nel team di lavoro del comitato Matera 2019. Gestisco gli account ufficiali di Matera 2019 e svolgo il ruolo di coordinamento della comunicazione digitale. Insieme alle donne del team di lavoro del comitato Matera 2019, ho ricevuto il premio di collettivo donne lucane dell'anno per aver saputo porre in sinergia la propria formazione culturale, le proprie competenze, i diversi ruoli e funzioni per un comune obiettivo fare di Matera la Capitale europea della Cultura per il 2019."
-  thumbnailUrl: raffapontra.jpg
+  title: "Social Media Manager"
+  bio: "Da inserire"
+  thumbnailUrl: sertudisco.png
   rockstar: true
- # ribbon: 
-#  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/raffapontra"}
+    - {name: "twitter", link: "http://twitter.com/serenatudisco"}
 - 
   id: 6
-  name: "Lucia"
-  surname: "Abbinante"
+  name: "Giancarla"
+  surname: "Trizio"
   company: ""
-  title: "Progettista sociale, esperta in nuovi media per l'educazione e la partecipazione dei minori, Aps Kreattiva,  Rete Crescere al Sud"
-  bio: "Lucia Abbinante, classe 1987, ha svolto studi  tra Bari e Valencia sui new media e produzione partecipata dal basso di cultura. Dal 2010 collabora come progettista e docente di media education con l'Associazione Kreattiva di Bari, una realtà che si occupa di nuovi media per l'educazione e la partecipazione dei minori. Tra le best practice progettate vi è Radio Kreattiva. Ha facilitato percorsi di partecipazione dei minori con Crescere al Sud, realizzando un'inchiesta con gli smartphone come strumento di racconto ed esplorazione del reale, ed è co-referente per la città di Bari del progetto Sottosopra di Save the Children Italia. Si occupa, fra le altre cose, di progettazione di innovazione sociale per lo sviluppo e l'integrazione delle periferie."
-  thumbnailUrl: luciaabb.jpg
-  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LuciaAbbinante/"}
-    - {name: "twitter", link: "http://twitter.com/LuciaAbbinante"}
-- 
-  id: 7
-  name: "Mariella"
-  surname: "Stella"
-  company: ""
-  title: "Casa Netural Co-founder"
-  bio: "Co-founder di Casa Netural, spazio di coworking rurale e Incubatore di sogni a Matera. Lavora dal 2002 nella pubblica amministrazione. Si è occupata di didattica innovativa, orientamento scolastico professionale e comunicazione Istituzionale presso Università, Ministeri ed Enti di supporto al disagio sociale. Si occupa di progetti ed iniziative inerenti allo sviluppo territoriale, al buon governo e alla cittadinanza attiva. è mamma di Vittorio ed Edoardo, di 8 anni e 7 mesi.  In Casa Netural cura, in particolare, il coordinamento dello Sportello dei Sogni di NeturalFamily, progetto destinato al reinserimento lavorativo di padri e madri, fuori dal mercato del lavoro e alla definizione di nuove modalità di conciliazione tra il lavoro e la famiglia."
-  thumbnailUrl: mstella.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+MariellaStella"}
-    - {name: "twitter", link: "http://twitter.com/mariella_stella"}
-- 
-  id: 8
-  name: "Filomena"
-  surname: "Tucci"
-  company: ""
-  title: "Esperta di start up, Istituto Piepoli e Iassp"
-  bio: "Da Oltre 10 anni lavoro in Istituto Piepoli. Advisor di Start up e Spin-off universitari sui temi della comunicazione e della vendita. Direttore organizzativo di Master Universitari sul Marketing e il data management. Perseguo e sostengo numerosi progetti culturali: Techgarage - start up competizione, IASSP istituto alti studi strategici e politici sulla leadership, Comunicazione Pubblica e istituzionale, Stati generali innovazione, Amici di Amerigo c.o. ambasciata USA, 'Attendiamoci  Onlus' di Reggio Calabria. Dal 2014 scrivo sul blog donne per territori smart Wister e sul magazine online femminile Dol's."
-  thumbnailUrl: millytucci.jpg
+  title: "Responsabile Marketing territoriale Tou.Play"
+  bio: "Da inserire"
+#  thumbnailUrl: sertudisco.png
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/millytucci"}
--
-  id: 9
-  name: "Caterina"
-  surname: "Policaro"
-  company: ""
-  title: "WISTER e Digital Champion Potenza"
-  bio: "Docente di ruolo, formatrice, blogger. Mi occupo di didattica, formazione e insegnamento/apprendimento con le nuove tecnologie e i social media. Co-autrice del Vademecum Pubblica Amministrazione e Social Media. Abito con piacere la rete che condivide conoscenza con il nickname catepol (su tutti i social network o quasi)."
-  thumbnailUrl: caterinapolicaro.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/catepol"}
--
-  id: 2
-  name: "Marieva"
-  surname: "Favoino"
-  company: ""
-  title: "Giornalista e Digital Champion Desio (MB)"
-  bio: "Marieva è giornalista, comunicatrice pubblica, social media manager. Lavora da 15 anni in ambito pubblico, occupandosi di strategie di comunicazione, gestione di processi partecipativi e azioni urbane di innovazione sociale. Si occupa di formazione peer to peer nel Gruppo Uffici Stampa Brianza - FNSI ed è contributor dei blog www.wister.it Women for Intelligent and Smart TERritories - SGI e www.cittadiniditwitter.it"
-  thumbnailUrl: mfavoi.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/marievafavoino"}
--
-  id: 1
-  name: "Maria Anna"
-  surname: "Fanelli"
-  company: ""
-  title: "Consiliera Regionale di Parità Regione Basilicata"
-  bio: ""
-  thumbnailUrl:
-  rockstar: false
+    - {name: "twitter", link: "http://twitter.com/gia_nca"}      
