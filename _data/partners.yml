@@ -5,14 +5,6 @@
 #    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
  #   - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io/wtm/", imageUrl: "wtm-mt.svg"}
 - 
-  group: "Con il patrocinio di"
   elements: 
-    - {name: "Comune di Matera", description: "Comune di Matera", link: "http://www.comune.matera.it/", imageUrl: "comunematera.jpg"}
-    - {name: "Ufficio della consigliera di Parità della Regione Basilicata", description: "Ufficio Parità", link: "http://www.lavoro.gov.it/ConsiglieraNazionale/Articolazione/Pages/Basilicata.aspx", imageUrl: "parita.jpg"}
-    - {name: "Matera 2019", description: "mt2019", link: "http://www.matera-basilicata2019.it/en/", imageUrl: "sostengomatera.jpg"}
-- 
-  group: "Sponsor"
-  elements: 
-    - {name: "Osteria dei Sassi", description: "Osteria dei Sassi", link: "http://www.osteriadeisassi.net/contatti.html", imageUrl: "osteriasassi.jpg"}
- #   - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.github.io", imageUrl: "gdg-bari.svg"}
-#    - {name: "WTM", description: "Women Tech Makers", link: "http://gdgbari.github.io/wtm/", imageUrl: "wtm-mt.svg"}
+    - {name: "Politecnico di Bari", description: "Politecnico di Bari", link: "http://www.poliba.it/", imageUrl: "poliba.png"}
+    - {name: "Studenti Democratici", description: "Studenti Democratici", link: "http://www.studentidemocratici.it/", imageUrl: "stdemo.png"}

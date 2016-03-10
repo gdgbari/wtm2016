@@ -1,5 +1,5 @@
 - 
-  group: "Main organizer"
+#  group: "Main organizer"
   elements: 
    - {name: "WTM", description: "Women Techmakers", link: "http://gdgbari.github.io/wtm2016/", imageUrl: "wtm-mt.svg"}
    - {name: "GDG Bari", description: "Google Developer Group Bari", link: "http://gdgbari.org", imageUrl: "gdg-bari.svg"}
