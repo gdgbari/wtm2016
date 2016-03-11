@@ -53,7 +53,19 @@
   subtype: presentation
   speakers: [1]
   #complexity: "Expert"
-
+-
+  id: 007
+  title: "Interaction Design"
+  description: ""  
+  subtype: presentation
+  speakers: [2]
+-
+  id: 008
+  title: "Social Media Marketing, strumenti per dare visibilità al tuo business"
+  description: ""  
+  subtype: presentation
+  speakers: [5]
+  #complexity: "Expert"  
 -
   id: 010
   title: "Registrazione dei partecipanti"

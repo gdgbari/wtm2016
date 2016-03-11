@@ -1,11 +1,12 @@
 - 
   date: "2015-03-31"
   dateReadable: "31 Marzo"
+  type: "Conference Session"
   tracks: 
-    - {title: "", color: "#90be4e"}
-    - {title: "", color: "#03a9f4"}
-    - {title: "", color: "#e91e63"}
-    - {title: "", color: "#e91e63"}
+    - {title: "&nbsp;", color: "#90be4e"}
+#    - {title: "", color: "#03a9f4"}
+#    - {title: "", color: "#e91e63"}
+#    - {title: "", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "09:30",
@@ -47,3 +48,24 @@
         endTime: "13:30",
         sessionIds: [011]
     }
+
+- 
+  date: "2015-03-31"
+  dateReadable: "31 Marzo"
+  type: "Workshop Session"
+  tracks: 
+    - {title: "&nbsp;", color: "#90be4e"}
+#    - {title: "", color: "#03a9f4"}
+#    - {title: "", color: "#e91e63"}
+#    - {title: "", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "15:30",
+        endTime: "18:00",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [008]
+    }  
