@@ -8,3 +8,8 @@
   elements: 
     - {name: "Politecnico di Bari", description: "Politecnico di Bari", link: "http://www.poliba.it/", imageUrl: "poliba.png"}
     - {name: "Studenti Democratici", description: "Studenti Democratici", link: "http://www.studentidemocratici.it/", imageUrl: "stdemo.png"}
+
+- 
+  group: "Sponsor"
+  elements: 
+    - {name: "BiGood", description: "BiGood", link: "http://www.bigood.it/", imageUrl: "bigood.png"}

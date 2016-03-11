@@ -24,7 +24,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgbari.github.io"
 
 # Head
-metaKeywords: "event, gdg, women, techmakers, google, programming, android, chrome, developers, matera"
+metaKeywords: "event, gdg, women, techmakers, google, programming, android, chrome, developers, design, bari"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/organizers/wtm-mt.svg"
 socialImageSrcTwitter: "/img/organizers/wtm-mt.svg"
@@ -45,18 +45,18 @@ bottomNavigationLinks:
 rightNavigationButtons:
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "Women Techmakers <typeout> 2016"
-eventDate: "<br /><br />31 Marzo 2016"
-typeoutTextValues: '"", "Bari"'
-typeoutFallback: "Bari"
+heroImage: "hero.png"
+heroTitle: "Boost your idea <typeout>"
+eventDate: "<br />dall’idea al business in 5 passi!"
+typeoutTextValues: '"", "!"'
+typeoutFallback: "!"
 heroButtons:
  - {link: "http://www.eventbrite.it/e/biglietti-women-techmakers-matera-2015-15790274135", text: "Iscriviti!"}
 
 # About Block
 aboutTitle: "About Women Techmakers"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "L'unico evento Women Techmakers (WTM) in Italia, insieme a Napoli. Venite a Bari a scoprire cos'è WTM! Celebreremo le donne nella tecnologia e i loro successi." }
+ - {title: "Conference", image: "conference.jpg", text: "L'unico evento Women Techmakers (WTM) in Italia. Venite a Bari a scoprire cos'è WTM! Celebreremo le donne nella tecnologia e i loro successi." }
  - {title: "Workshop", image: "workshop.jpg", text: "Il Google Developer Group (GDG) di Bari presenta: la tecnologia Google in azione! Venite a scoprire cos'è un GDG e cosa si fa in un GDG, un giorno potreste farne parte anche voi!" }
 
 # Statistic Block
