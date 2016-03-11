@@ -27,7 +27,7 @@
   #complexity: "Beginner"
 -
   id: 003
-  title: "Social media management e web marketing"
+  title: "Social Media Marketing, funziona se sai come"
   description: "Contenuto da inserire"  
   subtype: presentation
   speakers: [5]
@@ -57,9 +57,13 @@
 -
   id: 010
   title: "Registrazione dei partecipanti"
-  description: "Contenuto da inserire"
   service: true
 #  speakers: [1]
   #language: en
   #complexity: "Intermediate"
+
+-
+  id: 011
+  title: "Google Contest finale: solo per i più *attenti* i gadget di Google!"
+  service: true
 

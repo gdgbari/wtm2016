@@ -3,8 +3,8 @@
   name: "Azzurra"
   surname: "Ragone"
   company: ""
-  title: "Women Techmakers Regional Lead"
-  bio: "Ingegnere Gestionale, con un Dottorato in Ingegneria dell'Informazione e la passione per la ricerca, l’analisi e la visualizzazione dei dati, meglio se Open. Coordinatrice regionale del gruppo Women Techmakers (iniziativa patrocinata da Google), Coder Mentor nei CoderDojo organizzati a Matera e dintorni, Edgeryder e parte attiva del Web Team Matera 2019."
+  title: "Women Techmakers lead & Google Developer Group co-organizer"
+  bio: "Ingegnere Gestionale, con un Dottorato in Ingegneria dell'Informazione e la passione per la ricerca, l’analisi e la visualizzazione dei dati, meglio se Open. La ricerca è la mia prima passione: ho lavorato come ricercatrice per diversi anni, presso il Politecnico di Bari, l’Università di Trento e la University of Michigan (USA) sui temi del Semantic Web e del Web of Data. Per due anni ho lavorato presso Exprivia S.p.A come consulente di Business Intelligence per diversi aziende italiane, tra le quali: Generali S.p.A, Eni, Telecom. Attualmente sono assegnista di ricerca presso l’Università di Milano Bicocca. Rappresento in Italia il gruppo Women Techmakers."
   thumbnailUrl: azzurra.jpg
   rockstar: true
   social: 
@@ -16,12 +16,12 @@
   surname: "Amato"
   company: ""
   title: "Co-founder & Lead UI/UX Designer @ Paradigma"
-  bio: "Catanese, classe 88, diplomato in Media Design allo IED di Roma con una tesi sull’interface design. Ha lavorato su diversi progetti a caratura nazionale ed internazionale, stringendo il suo focus su UI/UX Design. Co-founder e Lead UI/UX Designer per la società di sviluppo prodotti tecnologici Paradigma, nel 2014 è stato fra i mentor del Working Capital Accelerator di Catania, progetto di Telecom Italia che supporta le startup in Italia. Attualmente è docente di Grafica Multimediale presso l'Harim Accademia Euromediterranea."
+  bio: "Classe '88, catanese, diplomato in Media Design allo IED di Roma con una tesi sull’interface design. Ha lavorato su diversi progetti a caratura nazionale ed internazionale, stringendo il suo focus su UI/UX Design. Co-founder e Lead UI/UX Designer per la società di sviluppo prodotti tecnologici Paradigma, nel 2014 è stato fra i mentor del Working Capital Accelerator di Catania, progetto di Telecom Italia che supporta le startup in Italia. Attualmente è docente di Grafica Multimediale presso l'Harim Accademia Euromediterranea."
   thumbnailUrl: omaramato.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+OmarAmato"}
     - {name: "twitter", link: "https://twitter.com/omaramato"}
+    - {name: "google-plus", link: "https://plus.google.com/+OmarAmato"}
 - 
   id: 3
   name: "Cristina"
@@ -38,31 +38,32 @@
   name: "Marcella"
   surname: "Loporchio"
   company: ""
-  title: ""
-  bio: "Classe 1968, Napoletana di origine ma trapiantata e adottata dai Baresi. Consulente del Lavoro con la passione per il Crowdfunding e la realizzazione di nuove idee. Crede nella rete e nella condivisione con una competenza riconosciuta in pubblic speaking e comunicazione. Tifosa del Napoli e amante degli sport, ma solo da vedere in Tv. Risponde a tutti coloro che le scrivono e cercano aiuto, chiarendo però che è una professionista e non Babbo Natale."
+  title: "Crowdfunding Specialist"
+  bio: "Classe '68. Napoletana di origine ma trapiantata e adottata dai Baresi. Consulente del Lavoro con la passione per il Crowdfunding e la realizzazione di nuove idee. Crede nella rete e nella condivisione con una competenza riconosciuta in pubblic speaking e comunicazione. Tifosa del Napoli e amante degli sport, ma solo da vedere in Tv. Risponde a tutti coloro che le scrivono e cercano aiuto, chiarendo però che è una professionista e non Babbo Natale."
   thumbnailUrl: mloporchio.png
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/loporchiomarcy"}
 - 
   id: 5
-  name: "Serena"
-  surname: "Tudisco"
+  name: "Stefania"
+  surname: "Clemente"
   company: ""
   title: "Social Media Manager"
-  bio: "Da inserire"
-  thumbnailUrl: sertudisco.png
+  bio: "Classe '84, orgogliosamente materana ma vagabonda recidiva. Sono nata con la penna in mano e dalle pagine dei diari sono finita ai 140 caratteri senza abbandonare la passione per la carta. Leggo libri, ancora, su carta e blog online. Scrivo su moleskine cartacee e app, in un pieno dualismo tra online e offline. Nel 2009 mi laureo in Lingue per il turismo all’Università di Verona, mi specializzo in Hospitality Industry e inizio a lavorare a Rimini come responsabile della formazione in una società di consulenza alberghiera. Nel 2013 decido di tornare a Matera e iniziare a lavorare come libera professionista e mi occupo di comunicazione online, social media marketing, consulenza e formazione alberghiera."
+  thumbnailUrl: steficlemente.png
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/serenatudisco"}
+    - {name: "twitter", link: "http://twitter.com/steficlemente"}
+    - {name: "google-plus", link: "https://plus.google.com/118379004634899163549"}    
 - 
   id: 6
   name: "Giancarla"
   surname: "Trizio"
   company: ""
   title: "Responsabile Marketing territoriale Tou.Play"
-  bio: "Da inserire"
-#  thumbnailUrl: sertudisco.png
-  rockstar: false
+  bio: "Classe '87. Innamorata della Puglia e della sua Bari, con l'animo a metà tra il digital e il vintage, si occupa di marketing e social media marketing, nello specifico applicato al turismo. Presidente dell'associazione culturale Tou.play, crede fortemente nell'idea di rete fatta da persone e competenze che si influenzano e completano tra loro."
+  thumbnailUrl: giancatrizio.png
+  rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/gia_nca"}      
