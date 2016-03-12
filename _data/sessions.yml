@@ -27,7 +27,7 @@
   #complexity: "Beginner"
 -
   id: 003
-  title: "Social Media Marketing, funziona se sai come"
+  title: "Social Media Marketing: funziona se sai come"
   description: "Contenuto da inserire"  
   subtype: presentation
   speakers: [5]
@@ -55,13 +55,13 @@
   #complexity: "Expert"
 -
   id: 007
-  title: "Interaction Design"
+  title: "Basic Design for Digital Interactions"
   description: ""  
   subtype: presentation
   speakers: [2]
 -
   id: 008
-  title: "Social Media Marketing, strumenti per dare visibilità al tuo business"
+  title: "Social Media Marketing: strumenti per dare visibilità al tuo business"
   description: ""  
   subtype: presentation
   speakers: [5]
