@@ -51,7 +51,7 @@ eventDate: "<br />dall’idea al business in 5 passi!"
 typeoutTextValues: '"", "!"'
 typeoutFallback: "!"
 heroButtons:
- - {link: "http://www.eventbrite.it/e/biglietti-women-techmakers-matera-2015-15790274135", text: "Iscriviti!"}
+ - {link: "https://www.eventbrite.it/e/biglietti-boost-your-idea-dallidea-al-business-in-5-passi-22875105055", text: "Registrati!"}
 
 # About Block
 aboutTitle: "About Women Techmakers"
