@@ -25,10 +25,13 @@ organizerLink: "http://gdgbari.github.io"
 
 # Head
 metaKeywords: "event, gdg, women, techmakers, google, programming, android, chrome, developers, design, bari"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/organizers/wtm-mt.svg"
-socialImageSrcTwitter: "/img/organizers/wtm-mt.svg"
-socialImageSrcFacebook: "/../img/seo/sharing-facebook.png"
+twitterAccount: "@WTMItalia"
+socialImageSrcGooglePlus: "/../img/seo/organizer-logo.png"
+socialImageSrcTwitter: "/../img/seo/organizer-logo.png"
+socialImageSrcFacebook: "/../img/seo/organizer-logo.png"
+#socialImageSrcGooglePlus: "/img/organizers/wtm-mt.svg"
+#socialImageSrcTwitter: "/img/organizers/wtm-mt.svg"
+#socialImageSrcFacebook: "/../img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
@@ -104,7 +107,7 @@ mapMobileCenterCoordinates: "41.1090195,16.8792464"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "wtm15"
+twitterHashTag: "wtm16"
 twitterFeed: "#"
 
 # Partners Block
