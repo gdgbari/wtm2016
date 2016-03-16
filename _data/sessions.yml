@@ -12,8 +12,7 @@
 -
   id: 001
   title: "Il mondo delle community Google: Google Developers Group e Women Techmakers"
-  description: "Contenuto da inserire"
-  subtype: presentation
+  service: true
   #speakers: [1]
   #language: en
   #complexity: "Intermediate"
@@ -56,7 +55,7 @@
 -
   id: 007
   title: "Basic Design for Digital Interactions"
-  description: ""  
+  description: "Le tecnologie digitali sono sempre più presenti nella vita degli esseri umani, gli smartphone stanno diventando estensioni del nostro corpo e l'User Experience Designer deve garantire il corretto utilizzo di un dispositivo, un software, un app. Nonostante il mercato sia sempre più attento e sensibile ad interfacce utilizzabili in maniera corretta, il web è ancora pieno di siti carenti in termini di usabilità. Il Workshop mira alla realizzazione di un prodotto digitale partendo dal brief, utilizzando le migliori best practice della progettazione: dal Flow-Chart alla prototipazione, passando per gli studi di Architettura dell’informazione. Seguendo un processo continuativo e di qualità, l’UX designer potrà offrire all’utente finale interazioni, interfacce e prodotti da fruire correttamente."
   subtype: presentation
   speakers: [2]
 -
